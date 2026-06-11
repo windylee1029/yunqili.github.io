@@ -115,15 +115,18 @@ li {
   margin-bottom: 10px;
 }
 
-.course-list li {
+.course-list li,
+.education-list li {
   margin-bottom: 16px;
 }
 
-.course-list strong {
+.course-list strong,
+.education-list strong {
   display: block;
 }
 
-.course-list span {
+.course-list span,
+.education-list span {
   display: block;
   color: var(--muted);
 }
